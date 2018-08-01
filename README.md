@@ -1,7 +1,7 @@
 # imap-to-groups
 A simple script to migrate an IMAP mailbox to a Google Group.
 
-Requirements:
+# Requirements:
 
 # MySQL and the MySQLdb library
 
